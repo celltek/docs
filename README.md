@@ -15,17 +15,17 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 
 ## Requirements Web Server
 
-- TekBASE 8.6.15
+- TekBASE 8.6.16
 - PHP version 7.3 or higher
 - PHP-Extension cURL 
 - PHP-Extension Zip 
-- PHP-Extension [ionCube Loader 10.4.3](https://ioncube.com/lw) stable
+- PHP-Extension [ionCube Loader 10.4.4](https://ioncube.com/lw) stable
 - HTTPS support (Free: [Let's Encrpyt free certificate](https://letsencrypt.org/de/))
 
 
 ## Requirements Service Server
 
-- Recommended: Ubuntu 18.04 LTS or greater
+- Recommended: Ubuntu 20.04 LTS or greater
 - [Wine](https://www.winehq.org/)
 - [Mono](https://www.mono-project.com/download/stable/#download-lin)
 - [Shell Script Compiler](https://github.com/neurobin/shc)
