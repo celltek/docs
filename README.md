@@ -52,6 +52,11 @@ lib32gcc1 libstdc++6 libstdc++6:i386 libsdl2-2.0-0:i386 psmisc libfontconfig1 li
 libxcursor1 libxss1 libxcomposite1 libasound2 libxdamage1 libxtst6 libatk1.0-0 libxrandr2 -y
 ```
 
+Change Java default version with:
+```ssh
+sudo update-alternatives --config java
+```
+
 ## Community
 
 Users and the development team are usually in the [Discord chat room](https://celltek.de/discord).
