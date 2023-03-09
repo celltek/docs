@@ -48,7 +48,7 @@ Needed Libs:
 ```ssh
 sudo apt update && sudo apt install --install-recommend openjdk-17-jre-headless mailutils postfix wget file bzip2 gzip unzip bsdmainutils python util-linux \
 ca-certificates binutils xvfb winbind tmux nano shc jq htop curl bc jq tmux \
-lib32gcc1 libstdc++6 libstdc++6:i386 libsdl2-2.0-0:i386 psmisc libfontconfig1 libpangocairo-1.0-0 libnss3 libgconf-2-4 libxi6 \
+lib32gcc1 libstdc++6 libstdc++6:i386 libtinfo5:i386 libncurses5:i386 libcurl3-gnutls:i386 libsdl2-2.0-0:i386 psmisc libfontconfig1 libpangocairo-1.0-0 libnss3 libgconf-2-4 libxi6 \
 libxcursor1 libxss1 libxcomposite1 libasound2 libxdamage1 libxtst6 libatk1.0-0 libxrandr2 -y
 ```
 
