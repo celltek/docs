@@ -19,13 +19,13 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 - PHP version 7.3.X or higher (max 7.4.X)
 - PHP-Extension cURL
 - PHP-Extension Zip 
-- PHP-Extension [ionCube Loader 11.0.0](https://ioncube.com/lw) stable
+- PHP-Extension [ionCube Loader 12.0.5](https://ioncube.com/lw) stable
 - HTTPS support (Free: [Let's Encrpyt free certificate](https://letsencrypt.org/de/) via [Certbot](https://certbot.eff.org/) or [Plesk Extension](https://www.plesk.com/extensions/letsencrypt/))
 
 
 ## Requirements Service Server
 
-- Recommended: Ubuntu 20.04 LTS or greater
+- Recommended: Ubuntu 22.04 LTS or greater
 - [Wine](https://www.winehq.org/)
 - [Mono](https://www.mono-project.com/download/stable/#download-lin)
 - [Shell Script Compiler](https://github.com/neurobin/shc)
