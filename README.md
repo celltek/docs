@@ -27,8 +27,6 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 
 - !! NO SUPPORT FOR DEBIAN OR OTHER LINUX DISTRIBUTIONEN !! 
 - LINUX: Ubuntu 22.04.2 LTS (Jammy Jellyfish)
-- [Wine](https://www.winehq.org/)
-- [Mono](https://www.mono-project.com/download/stable/#download-lin)
 - [Shell Script Compiler](https://github.com/neurobin/shc)
 - [jq](https://stedolan.github.io/jq/)
 - [cURL](https://wiki.ubuntuusers.de/cURL/)
@@ -38,12 +36,6 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 ```ssh
 sudo dpkg --add-architecture i386
 ```
-
-Wine:
-[Download](https://wiki.winehq.org/Download)
-
-Mono:
-[Download](https://www.mono-project.com/download/stable/#download-lin)
 
 Needed Libs:
 ```ssh
@@ -61,6 +53,5 @@ sudo update-alternatives --config java
 ```
 
 ## Community
-
 
 Users and the development team are usually in the [Discord chat room](https://celltek.de/discord).
