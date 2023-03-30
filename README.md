@@ -25,7 +25,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 
 ## Requirements Service Server
 
-- !! NO SUPPORT FOR DEBIAN OR OTHER LINUX DISTRIBUTIONEN !! 
+**!! NO SUPPORT FOR DEBIAN OR OTHER LINUX DISTRIBUTIONEN !!**
 - LINUX: Ubuntu 22.04.2 LTS (Jammy Jellyfish)
 - [Shell Script Compiler](https://github.com/neurobin/shc)
 - [jq](https://stedolan.github.io/jq/)
