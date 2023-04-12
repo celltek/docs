@@ -5,6 +5,7 @@
 
 - Troubleshooting
   - [Extensions](ts_extensions.md)
+  - [Heavy Loading](ts_resolv.md)
 
 - PHP SDK
   - [Examples](examples.md)
