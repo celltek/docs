@@ -1,43 +1,32 @@
-## API > RESTful-API System
-
-> Notice: No cURL request only Browser
+## API > System
 
 ### Request Example
 
 ```web
 // URL
-https://api.celltek.space/v4/system
+https://api.celltek.space/system
 ```
 
 ```json
 {
 	"response": {
 		"name": "RESTful-API",
-		"author": "celltek.space",
-		"version": "<number>",
+		"author": "api.celltek.space",
+		"version": "<version>",
 		"system": {
-			"php": "<number>",
-			"mysql": "<string>",
+			"php": "<version>",
+			"ionCube Loader": "<version>",
 			"timestamp": <timestamp>,
 			"time": "<date>",
-			"timezone": "UTC/GMT +2"
+			"timezone": "<timezone>"
 		},
-		"tekbase": {
-		"changelog": "<number>",
-		"database": "<number>",
-		"module": "<number>",
-		"widget": "<number>"
-		},
-		"module": {
-		"openssl": <true|false>,
-		"curl": <true|false>,
-		"geoip": <true|false>,
-		"mysqli": <true|false>,
-		"ssh2": <true|false>,
-		"ionCube Loader": "<number>,"
-		},
-		"_links": {
-		"self": "https://api.celltek.space/v4/system"
+		"versions": {
+			"changelog": "<version>",
+			"database": "<version>",
+			"covers": "<version>",
+			"icons": "<version>",
+			"i18n": "<version>",
+			"gameprotocol": "<version>"
 		}
 	}
 }

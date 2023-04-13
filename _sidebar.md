@@ -7,11 +7,9 @@
   - [Extensions](ts_extensions.md)
   - [Heavy Loading](ts_resolv.md)
 
-- PHP SDK
-  - [Examples](examples.md)
-
 - API
-  - [API System](api_system.md)
+  - [System](api_system.md)
+  - [Uptime](api_uptime.md)
   - [Account](api_account.md)
   - [Allowlist](api_allowlist.md)
   - [Denylist](api_denylist.md)
