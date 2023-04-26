@@ -1,7 +1,7 @@
 
 > Notice: You need an active API-KEY or you have to wait 300 seconds for the next request 
 
-## API > Denylist > Domains
+## API > Blocklist > Domains
 
 ### Request Example
 
@@ -10,14 +10,14 @@
 
 ```cURL
 curl -H 'Authorization: <api_key>' \
--X GET 'https://api.celltek.space/denylist/domains'
+-X GET 'https://api.celltek.space/blocklist/domains'
 ```
 
 #### **PHP**
 
 ```php
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, 'https://api.celltek.space/denylist/domain');
+curl_setopt($ch, CURLOPT_URL, 'https://api.celltek.space/blocklist/domain');
 curl_setopt($ch, CURLOPT_HTTPHEADER, [
   'Authorization: <api_key>'
 ]);
@@ -39,7 +39,7 @@ curl_close($ch);
 }
 ```
 
-## API > Denylist > Phones
+## API > Blocklist > Phones
 
 ### Request Example
 
@@ -48,14 +48,14 @@ curl_close($ch);
 
 ```cURL
 curl -H 'Authorization: <api_key>' \
--X GET 'https://api.celltek.space/denylist/phones'
+-X GET 'https://api.celltek.space/blocklist/phones'
 ```
 
 #### **PHP**
 
 ```php
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, 'https://api.celltek.space/denylist/phones');
+curl_setopt($ch, CURLOPT_URL, 'https://api.celltek.space/blocklist/phones');
 curl_setopt($ch, CURLOPT_HTTPHEADER, [
   'Authorization: <api_key>'
 ]);
@@ -76,7 +76,7 @@ curl_close($ch);
 }
 ```
 
-## API > Denylist > Words
+## API > Blocklist > Words
 
 ### Request Example
 
@@ -85,14 +85,14 @@ curl_close($ch);
 
 ```cURL
 curl -H 'Authorization: <api_key>' \
--X GET 'https://api.celltek.space/denylist/words'
+-X GET 'https://api.celltek.space/blocklist/words'
 ```
 
 #### **PHP**
 
 ```php
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, 'https://api.celltek.space/denylist/words');
+curl_setopt($ch, CURLOPT_URL, 'https://api.celltek.space/blocklist/words');
 curl_setopt($ch, CURLOPT_HTTPHEADER, [
   'Authorization: <api_key>'
 ]);
