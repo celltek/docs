@@ -59,7 +59,7 @@ sudo apt install lib32gcc-s1 steamcmd
 ```ssh
 sudo apt update && sudo apt install openjdk-8-jre-headless openjdk-11-jre-headless openjdk-17-jre-headless \
 openjdk-21-jre-headless mailutils postfix wget file bzip2 gzip unzip bsdmainutils python2 util-linux \
-ca-certificates binutils xvfb xmlstarlet winbind tmux nano shc jq htop curl bc jq libxml2-utils \
+ca-certificates binutils xmlstarlet tmux nano shc jq curl bc libxml2-utils \
 lib32gcc-s1 libstdc++6 libstdc++6:i386 libtinfo5:i386 libncurses5:i386 libcurl3-gnutls:i386 \
 libsdl2-2.0-0:i386 psmisc libfontconfig1 libpangocairo-1.0-0 libnss3 libgconf-2-4 libxi6 \
 libxcursor1 libxss1 libxcomposite1 libasound2 libxdamage1 libxtst6 libatk1.0-0 libxrandr2 -y
