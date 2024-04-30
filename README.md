@@ -35,7 +35,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 - [jq](https://stedolan.github.io/jq/)
 - [cURL](https://wiki.ubuntuusers.de/cURL/)
 - [xmlstarlet](https://xmlstar.sourceforge.net/)
-- Java 8, Java 11, Java 17
+- Java 8, Java 11, Java 17, Java 21
 
 **If you are using a 64-bit machine, you will need to add multiverse**
 ```ssh
@@ -58,7 +58,7 @@ sudo apt install lib32gcc-s1 steamcmd
 **Dependencies install**
 ```ssh
 sudo apt update && sudo apt install openjdk-8-jre-headless openjdk-11-jre-headless openjdk-17-jre-headless \
-mailutils postfix wget file bzip2 gzip unzip bsdmainutils python2 util-linux \
+openjdk-21-jre-headless mailutils postfix wget file bzip2 gzip unzip bsdmainutils python2 util-linux \
 ca-certificates binutils xvfb xmlstarlet winbind tmux nano shc jq htop curl bc jq libxml2-utils \
 lib32gcc-s1 libstdc++6 libstdc++6:i386 libtinfo5:i386 libncurses5:i386 libcurl3-gnutls:i386 \
 libsdl2-2.0-0:i386 psmisc libfontconfig1 libpangocairo-1.0-0 libnss3 libgconf-2-4 libxi6 \
