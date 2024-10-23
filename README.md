@@ -30,7 +30,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 **!! NO SUPPORT FOR DEBIAN OR OTHER LINUX DISTRIBUTIONEN !!**
 
 **Dependencies**
-- OS: Ubuntu 22.04 LTS (Jammy Jellyfish)
+- OS: Ubuntu 24.04.1 LTS (Noble Numbat)
 - [Shell Script Compiler](https://github.com/neurobin/shc)
 - [jq](https://stedolan.github.io/jq/)
 - [cURL](https://wiki.ubuntuusers.de/cURL/)
