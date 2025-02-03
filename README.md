@@ -18,7 +18,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 - PHP version 7.4
 - PHP-Extension cURL
 - PHP-Extension Zip 
-- PHP-Extension [ionCube Loader 14.0.0](https://ioncube.com/lw) stable
+- PHP-Extension [ionCube Loader 14.4.0](https://ioncube.com/lw) stable
 - HTTPS support (Free: [Let's Encrpyt free certificate](https://letsencrypt.org/de/) via [Certbot](https://certbot.eff.org/) or [Plesk Extension](https://www.plesk.com/extensions/letsencrypt/))
 
 ## Recommendation TekBASE
