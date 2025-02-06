@@ -35,7 +35,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 - [jq](https://stedolan.github.io/jq/)
 - [cURL](https://wiki.ubuntuusers.de/cURL/)
 - [xmlstarlet](https://xmlstar.sourceforge.net/)
-- Java 8, Java 11,Java 17, Java 21
+- Java 8, Java 11, Java 17, Java 21
 
 **If you are using a 64-bit machine, you will need to add multiverse**
 ```ssh
