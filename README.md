@@ -23,7 +23,7 @@ RESTful-API for Dedicated Serverfiles, Mods and Addons generates your informatio
 
 ## Recommendation TekBASE
 
-- GameQv3 - Fix Online Status [download](https://github.com/celltek/tekbase-gameprotocol/archive/refs/heads/main.zip)
+- GameQv3 - Fix Online Status [download](https://github.com/celltek//tekbase-game-protocol/archive/refs/heads/main.zip)
 
 ## Requirements Service Server
 
